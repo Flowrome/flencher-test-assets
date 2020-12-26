@@ -8,7 +8,7 @@ Flencher is a CLI to start a **[Stencil](https://stenciljs.com/)** project inclu
 
 - [Installation](#installation)
 - [Utilization](#utilization)
-- [Flags](#flags)
+- [Flags](#options---flag)
 - [Features](#features)
 - [Credits](#credits)
 
