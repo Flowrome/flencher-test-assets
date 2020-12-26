@@ -70,41 +70,41 @@
   --fl-color-warning-shadowDark: #bfb93f; <img src="https://via.placeholder.com/15/bfb93f/bfb93f">
   --fl-color-warning-shadowLight: #f9f273; <img src="https://via.placeholder.com/15/f9f273/f9f273">
 
-  --fl-color-light-base: #f4f2f1; <img src="https://via.placeholder.com/15/f4f2f1/f4f2f1">
-  --fl-color-light-baseRgb: 244,242,241;
-  --fl-color-light-tint: #f5f3f2; <img src="https://via.placeholder.com/15/f5f3f2/f5f3f2">
-  --fl-color-light-shade: #d7d5d4; <img src="https://via.placeholder.com/15/d7d5d4/d7d5d4">
+  --fl-color-light-base: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
+  --fl-color-light-baseRgb: 255,255,255;
+  --fl-color-light-tint: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
+  --fl-color-light-shade: #e0e0e0; <img src="https://via.placeholder.com/15/e0e0e0/e0e0e0">
   --fl-color-light-contrast: #000000; <img src="https://via.placeholder.com/15/000000/000000">
   --fl-color-light-contrastRgb: 0,0,0;
-  --fl-color-light-shadowDark: #bdbbbb; <img src="https://via.placeholder.com/15/bdbbbb/bdbbbb">
-  --fl-color-light-shadowLight: #f6f4f3; <img src="https://via.placeholder.com/15/f6f4f3/f6f4f3">
+  --fl-color-light-shadowDark: #c5c5c5; <img src="https://via.placeholder.com/15/c5c5c5/c5c5c5">
+  --fl-color-light-shadowLight: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
 
-  --fl-color-dark-base: #333332; <img src="https://via.placeholder.com/15/333332/333332">
-  --fl-color-dark-baseRgb: 51,51,50;
-  --fl-color-dark-tint: #474747; <img src="https://via.placeholder.com/15/474747/474747">
-  --fl-color-dark-shade: #2d2d2c; <img src="https://via.placeholder.com/15/2d2d2c/2d2d2c">
+  --fl-color-dark-base: #212121; <img src="https://via.placeholder.com/15/212121/212121">
+  --fl-color-dark-baseRgb: 33,33,33;
+  --fl-color-dark-tint: #373737; <img src="https://via.placeholder.com/15/373737/373737">
+  --fl-color-dark-shade: #1d1d1d; <img src="https://via.placeholder.com/15/1d1d1d/1d1d1d">
   --fl-color-dark-contrast: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
   --fl-color-dark-contrastRgb: 255,255,255;
-  --fl-color-dark-shadowDark: #282827; <img src="https://via.placeholder.com/15/282827/282827">
-  --fl-color-dark-shadowLight: #595959; <img src="https://via.placeholder.com/15/595959/595959">
+  --fl-color-dark-shadowDark: #1a1a1a; <img src="https://via.placeholder.com/15/1a1a1a/1a1a1a">
+  --fl-color-dark-shadowLight: #4b4b4b; <img src="https://via.placeholder.com/15/4b4b4b/4b4b4b">
 
-  --fl-color-background-light-base: #f4f2f1; <img src="https://via.placeholder.com/15/f4f2f1/f4f2f1">
-  --fl-color-background-light-baseRgb: 244,242,241;
-  --fl-color-background-light-tint: #f5f3f2; <img src="https://via.placeholder.com/15/f5f3f2/f5f3f2">
-  --fl-color-background-light-shade: #d7d5d4; <img src="https://via.placeholder.com/15/d7d5d4/d7d5d4">
+  --fl-color-background-light-base: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
+  --fl-color-background-light-baseRgb: 255,255,255;
+  --fl-color-background-light-tint: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
+  --fl-color-background-light-shade: #e0e0e0; <img src="https://via.placeholder.com/15/e0e0e0/e0e0e0">
   --fl-color-background-light-contrast: #000000; <img src="https://via.placeholder.com/15/000000/000000">
   --fl-color-background-light-contrastRgb: 0,0,0;
-  --fl-color-background-light-shadowDark: #bdbbbb; <img src="https://via.placeholder.com/15/bdbbbb/bdbbbb">
-  --fl-color-background-light-shadowLight: #f6f4f3; <img src="https://via.placeholder.com/15/f6f4f3/f6f4f3">
+  --fl-color-background-light-shadowDark: #c5c5c5; <img src="https://via.placeholder.com/15/c5c5c5/c5c5c5">
+  --fl-color-background-light-shadowLight: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
 
-  --fl-color-background-dark-base: #333332; <img src="https://via.placeholder.com/15/333332/333332">
-  --fl-color-background-dark-baseRgb: 51,51,50;
-  --fl-color-background-dark-tint: #474747; <img src="https://via.placeholder.com/15/474747/474747">
-  --fl-color-background-dark-shade: #2d2d2c; <img src="https://via.placeholder.com/15/2d2d2c/2d2d2c">
+  --fl-color-background-dark-base: #212121; <img src="https://via.placeholder.com/15/212121/212121">
+  --fl-color-background-dark-baseRgb: 33,33,33;
+  --fl-color-background-dark-tint: #373737; <img src="https://via.placeholder.com/15/373737/373737">
+  --fl-color-background-dark-shade: #1d1d1d; <img src="https://via.placeholder.com/15/1d1d1d/1d1d1d">
   --fl-color-background-dark-contrast: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
   --fl-color-background-dark-contrastRgb: 255,255,255;
-  --fl-color-background-dark-shadowDark: #282827; <img src="https://via.placeholder.com/15/282827/282827">
-  --fl-color-background-dark-shadowLight: #595959; <img src="https://via.placeholder.com/15/595959/595959">
+  --fl-color-background-dark-shadowDark: #1a1a1a; <img src="https://via.placeholder.com/15/1a1a1a/1a1a1a">
+  --fl-color-background-dark-shadowLight: #4b4b4b; <img src="https://via.placeholder.com/15/4b4b4b/4b4b4b">
   
   &.dark {
   
@@ -130,44 +130,45 @@
     --fl-color-black-800: #333232; <img src="https://via.placeholder.com/15/333232/333232">
     --fl-color-black-900: #020202; <img src="https://via.placeholder.com/15/020202/020202">
   
-    --fl-color-dark-base: #f4f2f1; <img src="https://via.placeholder.com/15/f4f2f1/f4f2f1">
-    --fl-color-dark-baseRgb: 244,242,241;
-    --fl-color-dark-tint: #d7d5d4; <img src="https://via.placeholder.com/15/f4f2f1/f4f2f1">
-    --fl-color-dark-shade: #f5f3f2; <img src="https://via.placeholder.com/15/f5f3f2/f5f3f2">
+    --fl-color-dark-base: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
+    --fl-color-dark-baseRgb: 255,255,255;
+    --fl-color-dark-tint: #e0e0e0; <img src="https://via.placeholder.com/15/ffffff/ffffff">
+    --fl-color-dark-shade: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
     --fl-color-dark-contrast: #000000; <img src="https://via.placeholder.com/15/000000/000000">
     --fl-color-dark-contrastRgb: 0,0,0;
-    --fl-color-dark-shadowDark: #bdbbbb; <img src="https://via.placeholder.com/15/bdbbbb/bdbbbb">
-    --fl-color-dark-shadowLight: #f6f4f3; <img src="https://via.placeholder.com/15/f6f4f3/f6f4f3">
+    --fl-color-dark-shadowDark: #c5c5c5; <img src="https://via.placeholder.com/15/c5c5c5/c5c5c5">
+    --fl-color-dark-shadowLight: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
 
-    --fl-color-light-base: #333332; <img src="https://via.placeholder.com/15/333332/333332">
-    --fl-color-light-baseRgb: 51,51,50;
-    --fl-color-light-tint: #2d2d2c; <img src="https://via.placeholder.com/15/333332/333332">
-    --fl-color-light-shade: #474747; <img src="https://via.placeholder.com/15/474747/474747">
+    --fl-color-light-base: #212121; <img src="https://via.placeholder.com/15/212121/212121">
+    --fl-color-light-baseRgb: 33,33,33;
+    --fl-color-light-tint: #1d1d1d; <img src="https://via.placeholder.com/15/212121/212121">
+    --fl-color-light-shade: #373737; <img src="https://via.placeholder.com/15/373737/373737">
     --fl-color-light-contrast: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
     --fl-color-light-contrastRgb: 255,255,255;
-    --fl-color-light-shadowDark: #282827; <img src="https://via.placeholder.com/15/282827/282827">
-    --fl-color-light-shadowLight: #595959; <img src="https://via.placeholder.com/15/595959/595959">
+    --fl-color-light-shadowDark: #1a1a1a; <img src="https://via.placeholder.com/15/1a1a1a/1a1a1a">
+    --fl-color-light-shadowLight: #4b4b4b; <img src="https://via.placeholder.com/15/4b4b4b/4b4b4b">
 
-    --fl-color-background-dark-base: #f4f2f1; <img src="https://via.placeholder.com/15/f4f2f1/f4f2f1">
-    --fl-color-background-dark-baseRgb: 244,242,241;
-    --fl-color-background-dark-tint: #d7d5d4; <img src="https://via.placeholder.com/15/f4f2f1/f4f2f1">
-    --fl-color-background-dark-shade: #f5f3f2; <img src="https://via.placeholder.com/15/f5f3f2/f5f3f2">
+    --fl-color-background-dark-base: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
+    --fl-color-background-dark-baseRgb: 255,255,255;
+    --fl-color-background-dark-tint: #e0e0e0; <img src="https://via.placeholder.com/15/ffffff/ffffff">
+    --fl-color-background-dark-shade: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
     --fl-color-background-dark-contrast: #000000; <img src="https://via.placeholder.com/15/000000/000000">
     --fl-color-background-dark-contrastRgb: 0,0,0;
-    --fl-color-background-dark-shadowDark: #bdbbbb; <img src="https://via.placeholder.com/15/bdbbbb/bdbbbb">
-    --fl-color-background-dark-shadowLight: #f6f4f3; <img src="https://via.placeholder.com/15/f6f4f3/f6f4f3">
+    --fl-color-background-dark-shadowDark: #c5c5c5; <img src="https://via.placeholder.com/15/c5c5c5/c5c5c5">
+    --fl-color-background-dark-shadowLight: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
 
-    --fl-color-background-light-base: #333332; <img src="https://via.placeholder.com/15/333332/333332">
-    --fl-color-background-light-baseRgb: 51,51,50;
-    --fl-color-background-light-tint: #2d2d2c; <img src="https://via.placeholder.com/15/333332/333332">
-    --fl-color-background-light-shade: #474747; <img src="https://via.placeholder.com/15/474747/474747">
+    --fl-color-background-light-base: #212121; <img src="https://via.placeholder.com/15/212121/212121">
+    --fl-color-background-light-baseRgb: 33,33,33;
+    --fl-color-background-light-tint: #1d1d1d; <img src="https://via.placeholder.com/15/212121/212121">
+    --fl-color-background-light-shade: #373737; <img src="https://via.placeholder.com/15/373737/373737">
     --fl-color-background-light-contrast: #ffffff; <img src="https://via.placeholder.com/15/ffffff/ffffff">
     --fl-color-background-light-contrastRgb: 255,255,255;
-    --fl-color-background-light-shadowDark: #282827; <img src="https://via.placeholder.com/15/282827/282827">
-    --fl-color-background-light-shadowLight: #595959; <img src="https://via.placeholder.com/15/595959/595959">
+    --fl-color-background-light-shadowDark: #1a1a1a; <img src="https://via.placeholder.com/15/1a1a1a/1a1a1a">
+    --fl-color-background-light-shadowLight: #4b4b4b; <img src="https://via.placeholder.com/15/4b4b4b/4b4b4b">
   }
 }
 </pre>
+
 ## Example of `src/styles/theme/scss-variables.scss`
 
 <pre>
@@ -253,47 +254,47 @@ $theme: (
   ),
 
   light: (
-    base: #f4f2f1, <img src="https://via.placeholder.com/15/f4f2f1/f4f2f1">
-    baseRgb: '244,242,241',
-    tint: #f5f3f2, <img src="https://via.placeholder.com/15/f5f3f2/f5f3f2">
-    shade: #d7d5d4, <img src="https://via.placeholder.com/15/d7d5d4/d7d5d4">
+    base: #ffffff, <img src="https://via.placeholder.com/15/ffffff/ffffff">
+    baseRgb: '255,255,255',
+    tint: #ffffff, <img src="https://via.placeholder.com/15/ffffff/ffffff">
+    shade: #e0e0e0, <img src="https://via.placeholder.com/15/e0e0e0/e0e0e0">
     contrast: #000000, <img src="https://via.placeholder.com/15/000000/000000">
     contrastRgb: '0,0,0',
-    shadowDark: #bdbbbb, <img src="https://via.placeholder.com/15/bdbbbb/bdbbbb">
-    shadowLight: #f6f4f3, <img src="https://via.placeholder.com/15/f6f4f3/f6f4f3">
+    shadowDark: #c5c5c5, <img src="https://via.placeholder.com/15/c5c5c5/c5c5c5">
+    shadowLight: #ffffff, <img src="https://via.placeholder.com/15/ffffff/ffffff">
   ),
 
   dark: (
-    base: #333332, <img src="https://via.placeholder.com/15/333332/333332">
-    baseRgb: '51,51,50',
-    tint: #474747, <img src="https://via.placeholder.com/15/474747/474747">
-    shade: #2d2d2c, <img src="https://via.placeholder.com/15/2d2d2c/2d2d2c">
+    base: #212121, <img src="https://via.placeholder.com/15/212121/212121">
+    baseRgb: '33,33,33',
+    tint: #373737, <img src="https://via.placeholder.com/15/373737/373737">
+    shade: #1d1d1d, <img src="https://via.placeholder.com/15/1d1d1d/1d1d1d">
     contrast: #ffffff, <img src="https://via.placeholder.com/15/ffffff/ffffff">
     contrastRgb: '255,255,255',
-    shadowDark: #282827, <img src="https://via.placeholder.com/15/282827/282827">
-    shadowLight: #595959, <img src="https://via.placeholder.com/15/595959/595959">
+    shadowDark: #1a1a1a, <img src="https://via.placeholder.com/15/1a1a1a/1a1a1a">
+    shadowLight: #4b4b4b, <img src="https://via.placeholder.com/15/4b4b4b/4b4b4b">
   ),
 
   background-light: (
-    base: #f4f2f1, <img src="https://via.placeholder.com/15/f4f2f1/f4f2f1">
-    baseRgb: '244,242,241',
-    tint: #f5f3f2, <img src="https://via.placeholder.com/15/f5f3f2/f5f3f2">
-    shade: #d7d5d4, <img src="https://via.placeholder.com/15/d7d5d4/d7d5d4">
+    base: #ffffff, <img src="https://via.placeholder.com/15/ffffff/ffffff">
+    baseRgb: '255,255,255',
+    tint: #ffffff, <img src="https://via.placeholder.com/15/ffffff/ffffff">
+    shade: #e0e0e0, <img src="https://via.placeholder.com/15/e0e0e0/e0e0e0">
     contrast: #000000, <img src="https://via.placeholder.com/15/000000/000000">
     contrastRgb: '0,0,0',
-    shadowDark: #bdbbbb, <img src="https://via.placeholder.com/15/bdbbbb/bdbbbb">
-    shadowLight: #f6f4f3, <img src="https://via.placeholder.com/15/f6f4f3/f6f4f3">
+    shadowDark: #c5c5c5, <img src="https://via.placeholder.com/15/c5c5c5/c5c5c5">
+    shadowLight: #ffffff, <img src="https://via.placeholder.com/15/ffffff/ffffff">
   ),
 
   background-dark: (
-    base: #333332, <img src="https://via.placeholder.com/15/333332/333332">
-    baseRgb: '51,51,50',
-    tint: #474747, <img src="https://via.placeholder.com/15/474747/474747">
-    shade: #2d2d2c, <img src="https://via.placeholder.com/15/2d2d2c/2d2d2c">
+    base: #212121, <img src="https://via.placeholder.com/15/212121/212121">
+    baseRgb: '33,33,33',
+    tint: #373737, <img src="https://via.placeholder.com/15/373737/373737">
+    shade: #1d1d1d, <img src="https://via.placeholder.com/15/1d1d1d/1d1d1d">
     contrast: #ffffff, <img src="https://via.placeholder.com/15/ffffff/ffffff">
     contrastRgb: '255,255,255',
-    shadowDark: #282827, <img src="https://via.placeholder.com/15/282827/282827">
-    shadowLight: #595959, <img src="https://via.placeholder.com/15/595959/595959">
+    shadowDark: #1a1a1a, <img src="https://via.placeholder.com/15/1a1a1a/1a1a1a">
+    shadowLight: #4b4b4b, <img src="https://via.placeholder.com/15/4b4b4b/4b4b4b">
   ),
 );
 
